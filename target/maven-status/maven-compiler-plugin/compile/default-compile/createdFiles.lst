@@ -1,6 +1,0 @@
-customvalidator\controller\UserController.class
-customvalidator\CustomValidatorApplication.class
-customvalidator\model\User.class
-customvalidator\model\Address.class
-customvalidator\repository\UserRepository.class
-customvalidator\service\UserService.class

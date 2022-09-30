@@ -1,3 +1,5 @@
 ./target/**
 /target/
 /vcs.xml
+**.lst
+/target/maven-archiver/
